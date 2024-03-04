@@ -1,0 +1,16 @@
+{
+  "name": "test_bifinex",
+  "version": "1.0.0",
+  "description": "Services for p2p",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0"
+  }
+}
